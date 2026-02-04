@@ -14,11 +14,13 @@ This project demonstrates admin authentication, database handling, and CRUD oper
 
 ## Screenshots
 
+## Screenshots
+
 ### Admin Login
-![Login Page](Screenshots/login.png)
+![Login Page](https://raw.githubusercontent.com/PasinduMendis-Tech/student-management-system/main/Screenshots/login.png)
 
 ### Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/PasinduMendis-Tech/student-management-system/main/Screenshots/dashboard.png)
 
 ## Technologies Used
 - PHP
