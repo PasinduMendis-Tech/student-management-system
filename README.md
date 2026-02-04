@@ -15,10 +15,10 @@ This project demonstrates admin authentication, database handling, and CRUD oper
 ## Screenshots
 
 ### Admin Login
-![Login Page](screenshots/login.png)
+![Login Page](Screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ## Technologies Used
 - PHP
